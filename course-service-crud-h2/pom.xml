@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cubisoft</groupId>
-	<artifactId>course-service-spring-rest-ex</artifactId>
+	<artifactId>course-service-crud-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>course-service-spring-rest-ex</name>
 	<description>Demo project for Spring Boot</description>

@@ -1,0 +1,13 @@
+########################################
+# Custom Info Endpoint Configuration
+########################################
+info:
+  application:
+    name: spring-boot-actuator
+    description: Spring Boot Actuator Test Application
+    version: "1.0.0"
+
+  developer:
+    name: Cubisoft
+    email: developer@cubisoft.com
+
